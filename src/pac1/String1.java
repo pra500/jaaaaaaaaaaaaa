@@ -17,7 +17,7 @@ public class String1 {
 		
 		System.out.println(s.concat("aa4hh"));
 		
-		System.out.println(s.concat("india"));
+		System.out.println(s.concat("indiachina"));
 		
 	}
 
